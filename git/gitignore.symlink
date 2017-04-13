@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.swp
+vendor/
+bower_components/
+node_modules/
+.env
+.idea/
+npm-debug.log
