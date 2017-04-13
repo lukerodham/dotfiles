@@ -1,0 +1,32 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "neutron-ui"
+      "ariake-dark-syntax"
+    ]
+    titleBar: "custom"
+  editor:
+    fontFamily: "fira code"
+    fontSize: 12
+    invisibles: {}
+    tabLength: 4
+  "exception-reporting":
+    userId: "53e7866c-d178-0e16-71c2-6e999f236a85"
+  "file-icons":
+    onChanges: true
+  "git-plus":
+    general:
+      analytics: false
+  "go-plus":
+    navigator: {}
+  linter: {}
+  "linter-jshint":
+    lintInlineJavaScript: true
+  "nord-atom-ui":
+    darkerFormFocusEffect: true
+  "one-dark-ui":
+    layoutMode: "Compact"
+    tabSizing: "Minimum"
+  welcome:
+    showOnStartup: false

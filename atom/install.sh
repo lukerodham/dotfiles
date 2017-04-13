@@ -1,3 +1,5 @@
+#! /bin/bash
+
 apm install neutron-ui \
             ariake-dark-syntax \
             docblockr \
@@ -11,3 +13,5 @@ apm install neutron-ui \
             intentions \
             linter \
             busy-signal
+
+cp config.dist.cson $HOME/.atom/config.cson
